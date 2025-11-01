@@ -153,8 +153,14 @@ public class RhythmPatternData : ScriptableObject
 ##  スクリーンショット（例）
 
 > 🎯 判定ラインとノーツ表示
-> 🎵 指揮中の音量バーの変化
+> <img width="582" height="365" alt="スクリーンショット 2025-11-01 214115" src="https://github.com/user-attachments/assets/8b84e8b9-f8e0-409d-8d2f-b55ce441b73c" />
+
 > 🏁 リザルトパネルのスコア表示
+> <img width="862" height="377" alt="スクリーンショット 2025-11-01 214021" src="https://github.com/user-attachments/assets/4e858bd6-0733-4a84-876b-61d1f2459216" />
+
+> 会場
+> <img width="1300" height="564" alt="スクリーンショット 2025-11-01 214230" src="https://github.com/user-attachments/assets/2dea782f-d644-45c3-908a-ec5faa58547f" />
+
 
 *(画像を後で追加したい)*
 
