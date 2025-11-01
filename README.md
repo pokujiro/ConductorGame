@@ -153,6 +153,7 @@ public class RhythmPatternData : ScriptableObject
 ##  スクリーンショット（例）
 
 > 🎯 判定ラインとノーツ表示
+> 
 > <img width="582" height="365" alt="スクリーンショット 2025-11-01 214115" src="https://github.com/user-attachments/assets/8b84e8b9-f8e0-409d-8d2f-b55ce441b73c" />
 
 > 🏁 リザルトパネルのスコア表示
