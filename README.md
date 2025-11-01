@@ -143,7 +143,6 @@ public class RhythmPatternData : ScriptableObject
 
 ## 📊 今後の拡張予定
 
-*  ランキング表示機能（曲・難易度別TOP10）
 *  VR内キーボード入力（Meta XR Interaction SDK対応）
 * 🎵 新しい曲データの追加（ScriptableObjectで簡単登録）
 * 🌍 オンラインスコア共有対応
@@ -157,7 +156,7 @@ public class RhythmPatternData : ScriptableObject
 > 🎵 指揮中の音量バーの変化
 > 🏁 リザルトパネルのスコア表示
 
-*(画像を後で追加する場合はここに)*
+*(画像を後で追加したい)*
 
 ---
 
