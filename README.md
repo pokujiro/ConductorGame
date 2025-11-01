@@ -202,6 +202,3 @@ This project is released under the **MIT License**.
 
 📘 *「VR Conductor」— 音楽 × テクノロジーで、あなたも指揮者になろう。*
 
-```
-
-
