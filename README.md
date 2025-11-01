@@ -161,9 +161,6 @@ public class RhythmPatternData : ScriptableObject
 > 会場
 > <img width="1300" height="564" alt="スクリーンショット 2025-11-01 214230" src="https://github.com/user-attachments/assets/2dea782f-d644-45c3-908a-ec5faa58547f" />
 
-
-*(画像を後で追加したい)*
-
 ---
 
 ## 👤 制作者
